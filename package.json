@@ -1,0 +1,33 @@
+{
+  "name": "Colleen-july-17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "nodemon": "^1.19.1",
+    "supertest": "^4.0.2"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server",
+    "dev": "nodemon server",
+    "debug": "ndb server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-emu/Colleen-Mantong-july-16.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-emu/Colleen-Mantong-july-16/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-emu/Colleen-Mantong-july-16#readme"
+}
